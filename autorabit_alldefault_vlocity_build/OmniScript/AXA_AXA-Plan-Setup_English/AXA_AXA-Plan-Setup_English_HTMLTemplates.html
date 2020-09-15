@@ -1,0 +1,60 @@
+<script type="text/ng-template" id="iframe.html">
+     <div ng-if="baseCtrl.setIPScope(this)"></div>
+       <iframe ng-if="bpTree.response.docId" ng-show="src = bpTree.response.urlPrefix + '/apex/%vlocity_namespace%__ObjectDocumentCreation?id='+bpTree.response.docId+'&templateId='+bpTree.response.templateId+'&documentName='+bpTree.response.documentName+'&contextId='+bpTree.response.documentParentId" id="obj-doc-creation-os-iframe" ng-src="{{src}}" style="width: 100%; border: none;" height="0" onload="this.height = '200';" vloc-prop-set="{{control.propSetMap}}"></iframe>
+ </script>
+
+<script type="text/ng-template" id="iframe2.html">
+     <div ng-if="baseCtrl.setIPScope(this)"></div>
+       <iframe ng-if="bpTree.response.docId" ng-show="src = bpTree.response.urlPrefix + '/apex/%vlocity_namespace%__ObjectDocumentCreation?id='+bpTree.response.docId+'&templateId='+bpTree.response.templateId+'&documentName='+bpTree.response.documentName+'&contextId='+bpTree.response.documentParentId" id="obj-doc-creation-os-iframe" ng-src="{{src}}" style="width: 100%; border: none;" height="0" onload="this.height = '200';" vloc-prop-set="{{control.propSetMap}}"></iframe>
+ </script>
+
+<style>
+.via-slds.via-omni .vlc-slds-right--panel {
+    width: 20%;
+    min-width: 20%;
+    flex: 0 0 20%;
+}
+.via-slds.via-omni div[msg=Success] {
+    background: #186e03;
+}
+
+.via-slds.via-omni div[msg=Requirement] {
+    background: #e24c36;
+}
+.via-slds.via-omni .slds-select {
+    color: Black;
+}
+.via-slds.via-omni .slds-form-element__control>div.vlc-control-wrapper {
+    position: relative;
+    background: #f8fafb;
+}
+
+
+.via-slds.via-omni .vlc-slds-remote-action--button .vlc-control-wrapper .slds-box, .via-slds.via-omni .vlc-slds-remote-action_button .vlc-control-wrapper .slds-box {
+    background: rgb(194, 57, 52);
+}
+
+.via-slds.via-omni .vlc-slds-remote-action--button .vlc-control-wrapper .slds-box.vlc-slds-box--neutral, .via-slds.via-omni .vlc-slds-remote-action--button .vlc-control-wrapper .slds-box.vlc-slds-box_neutral, .via-slds.via-omni .vlc-slds-remote-action_button .vlc-control-wrapper .slds-box.vlc-slds-box--neutral, .via-slds.via-omni .vlc-slds-remote-action_button .vlc-control-wrapper .slds-box.vlc-slds-box_neutral {
+    background: #2b4992;
+    border: 1px solid #2b4992;
+}
+
+.via-slds.via-omni .vlc-slds-remote-action--button .vlc-control-wrapper .slds-box.vlc-slds-box--neutral p, .via-slds.via-omni .vlc-slds-remote-action--button .vlc-control-wrapper .slds-box.vlc-slds-box_neutral p, .via-slds.via-omni .vlc-slds-remote-action_button .vlc-control-wrapper .slds-box.vlc-slds-box--neutral p, .via-slds.via-omni .vlc-slds-remote-action_button .vlc-control-wrapper .slds-box.vlc-slds-box_neutral p {
+    color: #ffffff!important;
+}
+.via-slds.via-omni .list-group.vertical-steps .list-group-item {
+    border-left: 3px solid #c23934;
+}
+.via-slds.via-omni section.slds-page-header.vlc-slds-page--header, .via-slds.via-omni section.slds-page-header.vlc-slds-page_header {
+    color: #c23934;
+}
+
+.via-slds.via-omni .slds-form-element__label span {
+    color: #49739c;
+}
+
+.via-slds.via-omni .slds-input {
+    color: black!important;
+}
+
+</style>

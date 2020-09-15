@@ -1,0 +1,7 @@
+projectPath: ./autorabit_alldefault_vlocity_build
+manifest:
+- OmniScript/AXA_AXA Plan Setup_English
+maxDepth: 0
+autoUpdateSettings: true
+separateMatrixVersions: false
+CompileOnBuild: false

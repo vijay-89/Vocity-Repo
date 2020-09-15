@@ -1,0 +1,124 @@
+{
+    "%vlocity_namespace%__Active__c": true,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "AXA Plan Setup",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/AXA/AXA Plan Setup/English",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__ParentElementId__c": {
+        "%vlocity_namespace%__OmniScriptId__c": {
+            "Name": "AXA Plan Setup",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/AXA/AXA Plan Setup/English",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+        },
+        "Name": "ContractData",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/AXA/AXA Plan Setup/English/ContractData",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c"
+    },
+    "%vlocity_namespace%__ParentElementName__c": "ContractData",
+    "%vlocity_namespace%__ParentElementType__c": "Step",
+    "%vlocity_namespace%__PropertySet__c": {
+        "HTMLTemplateId": "",
+        "accessibleInFutureSteps": false,
+        "conditionType": "Hide if False",
+        "controlWidth": 3,
+        "controllingField": {
+            "element": "",
+            "source": "",
+            "type": ""
+        },
+        "defaultValue": "FULL INSURANCE",
+        "disOnTplt": false,
+        "help": false,
+        "helpText": "",
+        "hide": false,
+        "inputWidth": 12,
+        "label": "CONTRACT STYLE",
+        "optionSource": {
+            "source": "",
+            "type": ""
+        },
+        "options": [
+            {
+                "name": "COST PLUS 97.5%",
+                "value": "COST PLUS 97.5%"
+            },
+            {
+                "name": "COST PLUS WITH GSL/SSL/BOTH",
+                "value": "COST PLUS WITH GSL/SSL/BOTH"
+            },
+            {
+                "name": "MASTER TRUST C+ WITH GSL/SSL",
+                "value": "MASTER TRUST C+ WITH GSL/SSL"
+            },
+            {
+                "name": "MASTER TRUST C+ WITH 100% GSL",
+                "value": "MASTER TRUST C+ WITH 100% GSL"
+            },
+            {
+                "name": "MID CORPORATE",
+                "value": "MID CORPORATE"
+            },
+            {
+                "name": "CASHBACK 5",
+                "value": "CASHBACK 5"
+            },
+            {
+                "name": "CASHBACK 50",
+                "value": "CASHBACK 50"
+            },
+            {
+                "name": "CASHBACK 100",
+                "value": "CASHBACK 100"
+            },
+            {
+                "name": "AXA GULF FULL INSURANCE",
+                "value": "AXA GULF FULL INSURANCE"
+            },
+            {
+                "name": "DOCTOR AT HAND",
+                "value": "DOCTOR AT HAND"
+            },
+            {
+                "name": "MASTER TRUST NO STOP LOSS",
+                "value": "MASTER TRUST NO STOP LOSS"
+            },
+            {
+                "name": "ADMIN ONLY",
+                "value": "ADMIN ONLY"
+            },
+            {
+                "name": "SCHEME AGREEMENT",
+                "value": "SCHEME AGREEMENT"
+            },
+            {
+                "name": "TRUST WITH GSL",
+                "value": "TRUST WITH GSL"
+            },
+            {
+                "name": "FULLY INSURED VIA CAPTIVE",
+                "value": "FULLY INSURED VIA CAPTIVE"
+            },
+            {
+                "name": "FULL INSURANCE",
+                "value": "FULL INSURANCE"
+            }
+        ],
+        "readOnly": false,
+        "repeat": false,
+        "repeatClone": false,
+        "repeatLimit": null,
+        "required": false,
+        "show": null,
+        "showInputWidth": false
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Select",
+    "Name": "ContractContractStyle",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/AXA/AXA Plan Setup/English/ContractContractStyle"
+}

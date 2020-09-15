@@ -1,0 +1,40 @@
+{
+    "%vlocity_namespace%__Active__c": true,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "AXA Plan Setup",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/AXA/AXA Plan Setup/English",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__ParentElementId__c": {
+        "%vlocity_namespace%__OmniScriptId__c": {
+            "Name": "AXA Plan Setup",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/AXA/AXA Plan Setup/English",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+        },
+        "Name": "BenefitsProductsPlan1",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/AXA/AXA Plan Setup/English/BenefitsProductsPlan1",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c"
+    },
+    "%vlocity_namespace%__ParentElementName__c": "BenefitsProductsPlan1",
+    "%vlocity_namespace%__ParentElementType__c": "Step",
+    "%vlocity_namespace%__PropertySet__c": {
+        "HTMLTemplateId": "",
+        "controlWidth": 12,
+        "disOnTplt": false,
+        "documentNames": [
+            "CABIBCCBA58a3138a804c410e8111bf80a809c21d"
+        ],
+        "label": "<p><strong><span style=\"color: #c23934;\">PLAN 1 - %RatePlan1GroupName%</span></strong></p>\n<p><strong><span style=\"color: #c23934;\"><img src=\"../servlet/servlet.ImageServer?id=0154R00003b4dyzQAA&amp;&amp;docName=CABIBCCBA58a3138a804c410e8111bf80a809c21d&amp;&amp;oid=00D4R000001WeJPUA0\" alt=\"\" width=\"2431\" height=\"22\" /></span></strong></p>\n<p><strong><span style=\"color: #c23934;\">TOTAL&nbsp;QUOTED MEMBERS: <span style=\"color: #000000;\">%RatePlan1TotalPopulation%&nbsp;</span> TOTAL PRICE: <span style=\"color: #000000;\">&pound;</span><span style=\"color: #000000;\">%RatePlan1TotalPrice%</span></span></strong></p>",
+        "labelKey": "",
+        "show": null
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Headline",
+    "Name": "Headline13",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/AXA/AXA Plan Setup/English/Headline13"
+}
