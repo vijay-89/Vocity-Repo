@@ -1,0 +1,27 @@
+{
+    "ContextId": null,
+    "Step1": {
+        "File1": [
+            {
+                "data": null,
+                "filename": null,
+                "size": null
+            }
+        ]
+    },
+    "Step2": {
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "DataRaptorPostAction1": null,
+        "RemoteAction1": null,
+        "Step1": null,
+        "Step2": null
+    }
+}

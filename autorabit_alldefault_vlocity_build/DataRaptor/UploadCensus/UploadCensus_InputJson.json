@@ -1,0 +1,81 @@
+{
+    "CensusHeaders": [
+        "Last Name",
+        "First Name",
+        "Tier",
+        "FTE",
+        "Gender",
+        "Bonus",
+        "Salary",
+        "Birthday",
+        "Hire Date",
+        "Is Family",
+        "No. Dependents",
+        "Total Dependents",
+        "Postal Code",
+        "Spouse",
+        "Type",
+        "Class Codes",
+        "Primary",
+        "Primary Member Identifier",
+        "Member Identifier",
+        "Census"
+    ],
+    "ContextId": "",
+    "Error": "List has no rows for assignment to SObject",
+    "ErrorLine": 61,
+    "debug_total": "1",
+    "error": "OK",
+    "errorCode": "INVOKE-200",
+    "id": "a2C1I000000hLnwUAE",
+    "layout": "lightning",
+    "showAccounts": "yes",
+    "stepAccount": {
+        "fAccountId": "0011I00000EnxqIQAR",
+        "fAccountName": "Unum Test Account",
+        "siAccounts": [
+            {
+                "$$hashKey": "object:387",
+                "BillingCity": "San Francisco",
+                "BillingState": "CA",
+                "Id": "0011I00000EnxqIQAR",
+                "Name": "Unum Test Account",
+                "vlcSelected": true
+            }
+        ],
+        "textAccount": "Unum%"
+    },
+    "stepMappings": {
+        "blkMappings": {
+            "FileHeaders": null,
+            "selTargetHeader": null
+        }
+    },
+    "stepUpload": {
+        "fileCensus": [
+            {
+                "$$hashKey": "object:401",
+                "data": "bf86d5c3-ee02-41a4-a6c0-371a53c41e19",
+                "filename": "new20k.csv",
+                "size": 1019566
+            }
+        ]
+    },
+    "timeStamp": "2018-01-13T07:36:25.075Z",
+    "userCurrencyCode": "USD",
+    "userId": "0051I000001l5ypQAA",
+    "userName": "charles@unumpoc.com",
+    "userProfile": "System Administrator",
+    "userTimeZone": -300,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "OmniScriptSessionToken": "616ed6df-c9cc-4095-aacb-488694d55f8b",
+        "drUploadCensus": 9279,
+        "raGetCensusHeaders": 5631,
+        "stepAccount": 7383,
+        "stepUpload": 5615,
+        "svCreateHeaderSelects": 9,
+        "svSetCensusHeaders": 18
+    }
+}

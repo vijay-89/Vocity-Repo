@@ -1,0 +1,35 @@
+{
+    "%vlocity_namespace%__Active__c": true,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "Reusable Census Upload",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Census/Upload/English",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__ParentElementId__c": {
+        "%vlocity_namespace%__OmniScriptId__c": {
+            "Name": "Reusable Census Upload",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Census/Upload/English",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+        },
+        "Name": "ImportPrompt",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Census/Upload/English/ImportPrompt",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c"
+    },
+    "%vlocity_namespace%__ParentElementName__c": "ImportPrompt",
+    "%vlocity_namespace%__ParentElementType__c": "Step",
+    "%vlocity_namespace%__PropertySet__c": {
+        "HTMLTemplateId": "",
+        "controlWidth": 12,
+        "label": "<p><strong>Simple steps to uploading a census:</strong></p>\n<p>1) Choose Effective&nbsp;and End Dates.</p>\n<p>2) View<a href=\"https://docs.google.com/spreadsheets/d/1NpSFu0KrVhZzAVcKtzgbuykvr2KeI8UALuOn048nN84/edit#gid=0\" target=\"_blank\"> this link</a> to see the census format required for a Total Health Plan quote.&nbsp; Need more information?&nbsp; Just add your columns and map them.</p>\n<p>3) Copy&nbsp;the headers into your own spreadsheet, fill in the values, make a .csv file.</p>\n<p>4) Upload the file.</p>",
+        "show": null
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": true,
+    "%vlocity_namespace%__Type__c": "Headline",
+    "Name": "Headline4",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Census/Upload/English/Headline4"
+}

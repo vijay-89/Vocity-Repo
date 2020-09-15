@@ -1,0 +1,42 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Attachment",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Body",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "stepUpload:fileCensus:data",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "UploadCensusCustom907",
+        "%vlocity_namespace%__TransformValuesMap__c": "{}",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "UploadCensus",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Attachment",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Name",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "stepUpload:fileCensus:filename",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "UploadCensusCustom1659",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "UploadCensus",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Attachment",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "ParentId",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "accountId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "UploadCensusCustom7328",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "UploadCensus",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]
