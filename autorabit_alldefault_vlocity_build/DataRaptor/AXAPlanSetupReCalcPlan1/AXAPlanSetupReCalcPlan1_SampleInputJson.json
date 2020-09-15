@@ -1,0 +1,205 @@
+{
+    "AdminReporting": {
+    },
+    "AuthorisationOutputs": {
+    },
+    "BenefitsProductsPlan1": {
+        "ConfgureProductPlan1": null
+    },
+    "BenefitsProductsPlan2": {
+        "ConfgureProductPlan2": null
+    },
+    "BenefitsProductsPlan3": {
+        "ConfgureProductPlan3": null
+    },
+    "ContextId": null,
+    "ContractData": {
+        "BlockTrustDetails": {
+            "BlockTrustDetailGSL": {
+                "ContractGSLAmount": null,
+                "ContractGSLIncludedInvoice": null,
+                "ContractGSLRiskCharge": null,
+                "ContractGSLRiskChargeInRates": null
+            },
+            "BlockTrustDetailSSL": {
+                "ContractSSLAmount": null,
+                "ContractSSLIncludedInvoice": null,
+                "ContractSSLRiskCharge": null,
+                "ContractSSLRiskChargeInRates": null
+            },
+            "ContractTrustGSLSSL": null
+        },
+        "ContractAdminCalculatedBasis": null,
+        "ContractBusinessStyle": null,
+        "ContractClaimFund": null,
+        "ContractComments": null,
+        "ContractCommentsTrust": null,
+        "ContractCommissionDetails": null,
+        "ContractContractStyle": null,
+        "ContractDateRenewalConfirmed": null,
+        "ContractEmployeeDate": null,
+        "ContractExtension": null,
+        "ContractLapseClause": null,
+        "ContractLength": null,
+        "ContractPMIEligibility": null,
+        "ContractPMISubsidy": null,
+        "ContractPaymentAdminFee": null,
+        "ContractPaymentFrequency": null,
+        "ContractPaymentRateCharge": null,
+        "ContractReInsuranceAgreement": null,
+        "ContractReconciliation": null,
+        "ContractRenewalDate": null,
+        "ContractStatus": null,
+        "ContractTrustType": null,
+        "ContractVoluntaryPMIGroup": null,
+        "MessagingTrustOther": null
+    },
+    "GroupInformation": {
+        "CompanySize": null,
+        "GrouopPostcode": null,
+        "GroupAccount": null,
+        "GroupCMM": null,
+        "GroupCity": null,
+        "GroupFlexProvider": null,
+        "GroupNameFlexProvider": null,
+        "GroupNumber": null,
+        "GroupPhone": null,
+        "GroupSICCode": null,
+        "GroupSICName": null,
+        "GroupSize": null,
+        "GroupStreet": null,
+        "IntermediaryCity": null,
+        "IntermediaryCompany": null,
+        "IntermediaryLookup-Block": {
+            "IntermediaryLookup": null
+        },
+        "IntermediaryNumber": null,
+        "IntermediaryPhone": null,
+        "IntermediaryPostode": null,
+        "IntermediaryRepresentative": null,
+        "IntermediarySelect": null,
+        "IntermediaryStreet": null,
+        "SICLookupName-Block": {
+            "SICLookupName": null
+        }
+    },
+    "Invoicing": {
+    },
+    "LiteratureMarketing": {
+    },
+    "RatesPopulation": {
+        "MessagingPlansSelected": null,
+        "Plan1Exists": null,
+        "Plan2Exists": null,
+        "Plan3Exists": null,
+        "RatePlan3": {
+            "RatePlan3FamilyMemberType": null,
+            "RatePlan3FamilyQuotedPopulation": null,
+            "RatePlan3FamilyQuotedPrice": null,
+            "RatePlan3FamilyRenewalRate": null,
+            "RatePlan3GroupName": null,
+            "RatePlan3MarriedMemberType": null,
+            "RatePlan3MarriedQuotedPopulation": null,
+            "RatePlan3MarriedQuotedPrice": null,
+            "RatePlan3MarriedRenewalRate": null,
+            "RatePlan3PoductCode": null,
+            "RatePlan3PoductName": null,
+            "RatePlan3SPFMemberType": null,
+            "RatePlan3SPFQuotedPopulation": null,
+            "RatePlan3SPFQuotedPrice": null,
+            "RatePlan3SPFRenewalRate": null,
+            "RatePlan3SingleMemberType": null,
+            "RatePlan3SingleQuotedPopulation": null,
+            "RatePlan3SingleQuotedPrice": null,
+            "RatePlan3SingleRenewalRate": null,
+            "RatePlan3TotalPopulation": null,
+            "RatePlan3TotalPrice": null,
+            "RatePlan3TotalText": null
+        },
+        "RatesPlan1": {
+            "RatePlan1FamilyMemberType": null,
+            "RatePlan1FamilyQuotedPopulation": null,
+            "RatePlan1FamilyQuotedPrice": null,
+            "RatePlan1FamilyRenewalRate": null,
+            "RatePlan1GroupName": null,
+            "RatePlan1MarriedMemberType": null,
+            "RatePlan1MarriedQuotedPopulation": null,
+            "RatePlan1MarriedQuotedPrice": null,
+            "RatePlan1MarriedRenewalRate": null,
+            "RatePlan1PoductCode": null,
+            "RatePlan1PoductName": null,
+            "RatePlan1SPFMemberType": null,
+            "RatePlan1SPFQuotedPopulation": null,
+            "RatePlan1SPFQuotedPrice": null,
+            "RatePlan1SPFRenewalRate": null,
+            "RatePlan1SingleMemberType": null,
+            "RatePlan1SingleQuotedPopulation": null,
+            "RatePlan1SingleQuotedPrice": null,
+            "RatePlan1SingleRenewalRate": null,
+            "RatePlan1TotalPopulation": null,
+            "RatePlan1TotalPrice": null,
+            "RatePlan1TotalText": null
+        },
+        "RatesPlan2": {
+            "RatePlan2FamilyMemberType": null,
+            "RatePlan2FamilyQuotedPopulation": null,
+            "RatePlan2FamilyQuotedPrice": null,
+            "RatePlan2FamilyRenewalRate": null,
+            "RatePlan2GroupName": null,
+            "RatePlan2MarriedMemberType": null,
+            "RatePlan2MarriedQuotedPopulation": null,
+            "RatePlan2MarriedQuotedPrice": null,
+            "RatePlan2MarriedRenewalRate": null,
+            "RatePlan2PoductCode": null,
+            "RatePlan2PoductName": null,
+            "RatePlan2SPFMemberType": null,
+            "RatePlan2SPFQuotedPopulation": null,
+            "RatePlan2SPFQuotedPrice": null,
+            "RatePlan2SPFRenewalRate": null,
+            "RatePlan2SingleMemberType": null,
+            "RatePlan2SingleQuotedPopulation": null,
+            "RatePlan2SingleQuotedPrice": null,
+            "RatePlan2SingleRenewalRate": null,
+            "RatePlan2TotalPopulation": null,
+            "RatePlan2TotalPrice": null,
+            "RatePlan2TotalText": null
+        },
+        "RatesSelectQuoteFile": [
+            {
+                "data": null,
+                "filename": null,
+                "size": null
+            }
+        ]
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "AdminReporting": null,
+        "AuthorisationOutputs": null,
+        "BenefitsProductsPlan1": null,
+        "BenefitsProductsPlan2": null,
+        "BenefitsProductsPlan3": null,
+        "ContractData": null,
+        "DRVPL-ReadAccount-100-1": null,
+        "DRVPL-ReadAccountBrokerDetails-100-1": null,
+        "DRvcdReadBrokerDetails": null,
+        "GetRatedProductPlan1": null,
+        "GetRatedProductPlan2": null,
+        "GetRatedProductPlan3": null,
+        "GroupInformation": null,
+        "Invoicing": null,
+        "LiteratureMarketing": null,
+        "RatesPopulation": null,
+        "SetAccountTest": null,
+        "SetConfgureProductPlan1": null,
+        "SetConfgureProductPlan2": null,
+        "SetConfgureProductPlan3": null,
+        "SetValuesRemoteOption": null
+    }
+}

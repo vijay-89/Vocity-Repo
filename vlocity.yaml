@@ -3,6 +3,10 @@ manifest:
 - OmniScript/AXA_AXA Plan Setup_English
 - OmniScript/Census_Upload_English
 - OmniScript/Individual_Quoting_English
+- DataRaptor/AXAPlanSetupReCalcPlan1
+- DataRaptor/AXASetupCreateGroupClass
+- DataRaptor/AXASetupSGetGroupClass
+- DataRaptor/AccountSearch
 maxDepth: -1
 autoUpdateSettings: true
 separateMatrixVersions: true

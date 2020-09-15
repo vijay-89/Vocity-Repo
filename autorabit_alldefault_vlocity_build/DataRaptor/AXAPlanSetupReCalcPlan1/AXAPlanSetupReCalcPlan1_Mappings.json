@@ -1,0 +1,15 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "selectedProduct:records",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "BenefitsProductsPlan1:ConfgureProductPlan1",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "AXAPlanSetupReCalcPlan1Custom4247",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "AXAPlanSetupReCalcPlan1",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

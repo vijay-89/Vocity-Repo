@@ -1,0 +1,27 @@
+{
+    "ContextId": "001o0000013yfxG",
+    "Create Class": {
+        "ContributionAmount": 1000,
+        "ContributionPercentage": null,
+        "ContributionType": "Amount",
+        "Description": "All Union Labor",
+        "Name": "Hourly"
+    },
+    "LinkToCensus": {
+        "CensusId": null,
+        "CensusImport": null,
+        "NewCensus": null,
+        "SelectCensus": null
+    },
+    "id": "a0io0000006AEnSAAW",
+    "layout": "lightning",
+    "testContextId": "001o0000013yfxG",
+    "timeStamp": "2017-05-10T18:08:29.517Z",
+    "userId": "005o0000000KTFkAAO",
+    "userName": "bzhanins@vlocity.com",
+    "userProfile": "System Administrator",
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+    }
+}
