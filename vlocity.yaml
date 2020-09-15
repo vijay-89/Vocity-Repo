@@ -2,7 +2,8 @@ projectPath: ./autorabit_alldefault_vlocity_build
 manifest:
 - OmniScript/AXA_AXA Plan Setup_English
 - OmniScript/Census_Upload_English
-maxDepth: 1
+- OmniScript/Individual_Quoting_English
+maxDepth: -1
 autoUpdateSettings: true
 separateMatrixVersions: true
 CompileOnBuild: false

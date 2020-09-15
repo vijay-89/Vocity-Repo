@@ -1,0 +1,77 @@
+.via-nds p[vlc-bind-html] {
+    color: #00396b;
+}
+.via-nds .nds-input[readonly] {
+    opacity: 1;
+}
+.via-nds .nds-form-element__control.nds-form-element__control-animated-label input[readonly] ~ label {
+    opacity: 1;
+}
+.heading {
+    display: flex; 
+    align-items: center;
+    flex-direction: column;
+}
+.headline {
+    color: #1564bf; 
+    font-weight: 600; 
+    font-size: 1.3rem;
+}
+.sub-text {
+    font-weight: 300; 
+    font-size: 17px;
+}
+.head {
+    display: flex; 
+    align-items: center;
+    flex-direction: column;
+}
+.hline { 
+    width:8%; 
+    height:3px; 
+    background: 
+    #ffa500 }
+
+.via-nds {
+    .nds-radio .nds-form-element__label{
+        white-space: initial;
+    }
+
+    #vlc-step-cancel-btn, #vlc-step-save-btn{
+        display: none
+    }
+   
+}
+
+#GetStarted{
+ul li{  
+        text-align: -webkit-left;     
+    }
+ul > li:first-child{
+        display: none;
+    }
+}
+
+#MeetingDateTimeText, #CallerInfoTextBlock, #IsMeetingForYou, #HaveFirstNameAndLastName, #HowManyPeople{
+    margin-bottom: 0px;
+}
+#MeetingDateTimeText, #HowManyPeople, #LanguagePrefText{
+    font-size: 15px;
+}
+
+input#EffectiveDate ~ label {
+    padding-left: 0;
+}
+
+.via-nds .nds-form-element__control.nds-form-element__control-animated-label select.ng-not-empty ~ label {
+    transform: translate3d(0px, -1.2rem, 0px);
+}
+
+.nds-disclosure .nds-box {
+    max-height: 258px;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+}
+margin-bottom-none{
+    margin-bottom:0px !important; 
+}
