@@ -1,0 +1,77 @@
+{
+    "AP-FixBundleSelection": {
+        "AP-FixedBundleSelected": true,
+        "filteredFixedPrograms": [
+            {
+                "Id": "01t4B000001XE0zQAG",
+                "IsActive": true,
+                "LOB": "Health and Wellness",
+                "Name": "ConditionCare: Core Asthma, COPD, CAD, DM, CHF",
+                "QLIRecordType": "Default",
+                "prodStage": "jeopardy",
+                "vlcBundleStage": false,
+                "vlcSelected": true
+            },
+            {
+                "Id": "01t4B000001XE1AQAW",
+                "IsActive": true,
+                "LOB": "Health and Wellness",
+                "Name": "Healthy Lifestyles: One on One - Coaching",
+                "QLIRecordType": "Default",
+                "prodStage": "jeopardy",
+                "vlcBundleStage": false,
+                "vlcSelected": true
+            }
+        ]
+    },
+    "AP-Stages": [
+        "In Progress",
+        "IGAP Dead",
+        "IGAP In Progress",
+        "IGAP Lost",
+        "IGAP Sold",
+        "Jeopardy",
+        "Renewed",
+        "Termed"
+    ],
+    "Bundle": "Fixed",
+    "ContextId": "",
+    "ParentDetails": {
+        "Probability": "10%",
+        "ProductStage": "IGAP In Progress"
+    },
+    "ProdId": "01t4B000001XE1g",
+    "ProdStage": "jeopardy",
+    "QLIid": "0QL4B000000BDplWAG",
+    "QuoteDetails": {
+        "AccountId": "0014B00000KMVPLQA5",
+        "EffectiveDate": "2017-08-09",
+        "GNReqStatus": "Not Requested",
+        "GroupId": "TBD Customer",
+        "GroupName": "TBD Customer",
+        "GroupNumber": "a5P4B0000009Nk8UAE",
+        "Id": "0Q04B000000AYbpSAG",
+        "OpptyId": "0064B000009Er87QAC",
+        "OpptyRecType": "Renewal",
+        "OpptyStage": "Initiated"
+    },
+    "QuoteId": "0Q04B000000AYbpSAG",
+    "error": "OK",
+    "id": "a3B4B0000004oZPUAY",
+    "layout": "lightning",
+    "timeStamp": "2017-09-26T21:18:42.037Z",
+    "userId": "0054B000000op45QAA",
+    "userName": "jcarrero@anthem.com2.config",
+    "userProfile": "System Administrator",
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "AP-SetValues": 18,
+        "DR-QLIDetails": 317,
+        "DR-QuoteDetails": 544,
+        "DRFixedBundleExtract": 330,
+        "FilterPrograms": 154,
+        "OmniScriptSessionToken": "49152f44-2466-4c02-a4e9-e0fcf2ab765a",
+        "Set Values 2": 2
+    }
+}

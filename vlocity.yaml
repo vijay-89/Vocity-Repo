@@ -7,7 +7,11 @@ manifest:
 - DataRaptor/AXASetupCreateGroupClass
 - DataRaptor/AXASetupSGetGroupClass
 - DataRaptor/AccountSearch
+- CalculationMatrix/Dental Rating Matrix
+- DataRaptor/ANA_AccountLookupExtract
+- DataRaptor/ANA_AddFixedChildPrograms
 maxDepth: -1
-autoUpdateSettings: true
-separateMatrixVersions: true
+autoUpdateSettings: false
+separateMatrixVersions: false
 CompileOnBuild: false
+separateCalculationProcedureVersions: false
